@@ -25,4 +25,5 @@ Murder rate by state
 
 We note the large state to state variability by generating a barplot showing the murder rate by state:
 
-![](Report_files/figure-markdown_github/murder-rate-by-state-1.png)
+![](C:/Users/Berserker/Desktop/andre/R/projects/murders/figs/barplot.png)
+
